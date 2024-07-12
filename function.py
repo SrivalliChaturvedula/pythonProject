@@ -21,3 +21,9 @@ def summation(a,b):
     return a + b
 print(summation(1,2))
 
+def newFunction():
+    print("newFunction")
+
+
+newFunction()
+
